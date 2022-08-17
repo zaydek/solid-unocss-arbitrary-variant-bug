@@ -6,5 +6,5 @@ import {
 export default defineConfig({
 	presets: [
 		presetUno(),
-	]
+	],
 })
